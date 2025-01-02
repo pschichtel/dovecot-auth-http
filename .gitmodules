@@ -1,0 +1,3 @@
+[submodule "bindings/dovecot"]
+	path = bindings/dovecot
+	url = https://github.com/dovecot/core.git
